@@ -1,5 +1,5 @@
 # advanced_streamlit_app.py
-
+pip install seaborn
 import streamlit as st
 import pickle
 import numpy as np
