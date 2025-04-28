@@ -63,12 +63,12 @@ Lung Cancer Prediction Analysis/
 ```
 ---
 
+
 ## 🔐 Disclaimer
 
 > This tool is for **educational and early risk assessment** purposes only.  
 > It does not replace clinical testing or medical advice.  
 > Please consult licensed healthcare professionals for diagnosis or treatment.
----
 
 ## 🔧 Future Improvements
 - Handle data imbalance with SMOTE  
