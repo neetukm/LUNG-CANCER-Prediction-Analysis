@@ -49,8 +49,8 @@ Try it live:
 
 
 ## 📁 Project Structure
-Lung Cancer Prediction Analysis/
-.
+```text
+📦 Lung Cancer Prediction Analysis
 ├── .devcontainer/
 ├── Data/
 ├── Model/
