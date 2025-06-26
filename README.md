@@ -5,7 +5,8 @@ This dashboard is built using **Streamlit** and offers prediction, visualization
 
 > ⚠️ This is a **decision-support tool**, not a diagnostic device. Always consult a healthcare provider for medical evaluation.
 
----
+- [Dashboard]![Screenshot 2025-06-27 030318](https://github.com/user-attachments/assets/d4744388-2e3a-4d3b-a46d-05aaae8c3eb4)
+
 
 ## 📌 Project Overview
 Lung cancer is one of the leading causes of death worldwide.
@@ -27,7 +28,7 @@ Early detection is critical to improving survival rates. However, traditional di
 
 ## 📂 Demo
 
-Try it live: 
+- [Lung Cancer Prediction Dashboard](https://lung-cancer-prediction-analysis.streamlit.app/)
 
 ---
 
